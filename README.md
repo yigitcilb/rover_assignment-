@@ -2,7 +2,6 @@
   <img src="https://github.com/itu-rover/iturover_obstacle_avoidance_assignment/assets/99661459/ac4adfa5-b237-4c0e-9f1e-56532de83b65" alt="iturover" width="300"/>
 </p>
 <p align="center">
-  <em>My battery is low and it's getting dark.</em>
 </p>
 
 
