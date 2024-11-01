@@ -25,18 +25,6 @@ Bu ödevde göreviniz python'da pynput kütüphanesini kullanarak klavyenizde ba
 
 
 
-
-![Watch the video](config/Screencast 2024-11-01 22:43:01.mp4)
-
-
-
-
-
-<br>
-<br>
-
-
-
 Ödevle ilgili daha fazla bilgiye ve yardımcı olacak kaynaklara aşağıdan ulaşabilirsiniz.
 
 # Kurulum
