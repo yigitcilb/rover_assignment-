@@ -26,7 +26,7 @@ Bu ödevde göreviniz python'da pynput kütüphanesini kullanarak klavyenizde ba
 
 
 
-![Watch the video](/config/Screencast 2024-11-01 22:43:01.mp4)
+![Watch the video](config/Screencast 2024-11-01 22:43:01.mp4)
 
 
 
