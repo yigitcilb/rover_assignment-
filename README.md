@@ -26,8 +26,7 @@ Bu ödevde göreviniz python'da pynput kütüphanesini kullanarak klavyenizde ba
 
 
 
-https://github.com/itu-rover/iturover_obstacle_avoidance_assignment/assets/99661459/6ad153ed-4203-452b-babd-e2b1d091dcd2
-
+/config/Screencast 2024-11-01 22:43:01.mp4
 
 
 
